@@ -66,18 +66,7 @@ public class ImpQuesPractice {
         }
     }
 
-    class Sample {
 
-        public void add(int x, int y) {
-            int result = x + y;
-            System.out.println(result);
-        }
-
-        public void add(float x, float y) {
-            float result = x + y;
-            System.out.println(result);
-        }
-    }
 
 
 }
